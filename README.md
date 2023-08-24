@@ -1,6 +1,39 @@
+# Project Details
+
+5.2 Course Project: Final Project
+Student Name: Dinesh Venkata Manikanta Maddirala
+ECPI University
+CIS 453L: DTR Interface Design II LAB
+Professor: Jack Labudzik
+
+## Project Description
+
+The "Enhancing User Experience on Airbnb Listing Pages" project is aimed to address a significant challenge 
+faced by users on the Airbnb platform: the lack of comprehensive property information on listing pages. 
+This deficiency often resulted in uncertainty and hesitation when users made booking decisions. The project 
+sought to improve user confidence and satisfaction by providing users with exclusive property information.
+
+By addressing user pain points and enriching listing pages, the project aimed to foster trust, reduce 
+uncertainties, and ultimately deliver an improved and more satisfying user experience.
+
+## Dedicated Home Page: 
+
+A dedicated home page offers a more personalized and engaging experience for users. It could include features such as Personalized Recommendations, Quick Search, Localized Content, Promotions and Deals, and User Authentication as well.
+A couple of graphical images have been added to gain user attraction and attention.
+
+## Comprehensive Listings Page: 
+
+A well-designed listings page also help users make informed decisions when choosing accommodations. Key elements to consider include High-Quality Images, Property Highlights, Reviews and Ratings, and Instant Booking etc.
+
+## Separate Contact-Us Page: 
+
+A separate contact page improves customer support and communication with users that includes Clear Communication Channel, FAQs and Help Center, and Feedback & Suggestions.
+
+### Build Instructions:
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
 
 ## Available Scripts
 
